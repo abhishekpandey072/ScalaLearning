@@ -38,6 +38,7 @@ object Recap extends App {
 
  val aCroc = new Crocadile
   aCroc.eat(aDog)
+  println("Hello)
 
 
 }
